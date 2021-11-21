@@ -21,6 +21,3 @@
 		window.CITY_IP_NAME = "";
 		window.CITY_HREF= "/";
 		window.CITY_CUR_PAGE = "/ventilyatsiya/ventilyatoryi/kanalnye/";
-		<div>
-			Наш e-mail: <a href="mailto:mail@mail.ru">mail@mail.ru</a>
-		</div>
